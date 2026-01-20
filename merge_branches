@@ -1,0 +1,9 @@
+# Replace the content below with your actual terminal output.
+
+git checkout main
+Switched to branch 'main'
+
+git merge bug-fix-typo
+Updating 1234567..89abcde
+Fast-forward
+ 1 file changed, 1 insertion(+), 1 deletion(-)
