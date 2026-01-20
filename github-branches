@@ -1,7 +1,5 @@
-# Replace the content below with your actual terminal output.
-
 git branch -a
-* main
   bug-fix-typo
-  remotes/origin/main
+* main
   remotes/origin/bug-fix-typo
+  remotes/origin/main
