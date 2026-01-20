@@ -1,1 +1,7 @@
-curl https://api.github.com/repos/YOUR_USERNAME/expressBookReview
+curl https://api.github.com/repos/b9dim/expressBookReview
+
+{
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/repos/repos#get-a-repository",
+  "status": "404"
+}
