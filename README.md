@@ -34,3 +34,5 @@ Result: `Simple Interest: 100.00`
 Minor typo fix for merge demo.
 
 Minor typo fix for merge demo v2.
+
+Minor typo fix for merge demo v3.
