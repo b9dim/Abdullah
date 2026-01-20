@@ -32,3 +32,5 @@ Time: `2`
 Result: `Simple Interest: 100.00`
 
 Minor typo fix for merge demo.
+
+Minor typo fix for merge demo v2.
