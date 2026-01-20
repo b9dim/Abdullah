@@ -42,3 +42,5 @@ Minor typo fix for merge demo v4.
 Minor typo fix for merge demo v5.
 
 Minor typo fix for merge demo v6.
+
+Minor typo fix for merge demo v7.
